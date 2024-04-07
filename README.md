@@ -1,20 +1,6 @@
 
 # Environment Setup
 
-## Connect to server (Regular Connection)
-
-* ssh command
-* password
-
-## SSH key (Connection without input the password anymore)
-
-* Copy C:\Users\zhululu\.ssh\id_ed25519.pub to /root/.ssh/authorized_keys
-
-## Set git
-
-* github--Settings--SSH keys--generate new keys
-* Copy /root/.ssh/id_ed25519.pub to github--Settings--SSH keys--Add new SSH Key--key
-
 ##  conda
 
 * wget  [https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh](https://repo.anaconda.com/archive/Anaconda3-2020.11-Linux-x86_64.sh)
